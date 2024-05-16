@@ -1,5 +1,5 @@
 {
-  "name": "tldr-pages",
+  "name": "tldr-pagess",
   "image": "mcr.microsoft.com/devcontainers/base:ubuntu", // Use Microsoft's Ubuntu Base image for the dev container
   "features": { // Use Node and Python features in the dev container
     "ghcr.io/devcontainers/features/node:1": {},
